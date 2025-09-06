@@ -40,4 +40,4 @@ While this tool includes over 43 additional functions like exporting members, fi
 # CONTACT FOR QUESTIONS: https://shorturl.at/qRqTq
 
 <h2 align="center">Visitors Counts👀</h2>
-<a href="https://github.com/User-Adder/Telegram-Users-Adding-New"><img alt="Cute Count" src="https://count.getloli.com/get/@TadSn?theme=rule34" /></a>
+<a href="https://github.com/User-Adder/Telegram-Users-Adding-New"><img alt="Cute Count" src="https://count.getloli.com/get/@TadSnA?theme=rule34" /></a>
